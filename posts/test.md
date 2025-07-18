@@ -1,0 +1,9 @@
+#TEST 
+
+K.I.S.S
+Keep It Simple Stupid....Something I should have considered when deciding to host a blog.....
+That said this is yet another place for any rants.
+Lets see how this goes.....
+
+
+-Lamb
