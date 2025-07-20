@@ -2,7 +2,6 @@
 layout: post
 title: "Reminder to keep striving..."
 date: 2025-07-20 19:00:00 -0500
-categories: blog
 ---
 
 First real post! 
