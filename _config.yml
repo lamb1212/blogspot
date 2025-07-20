@@ -1,4 +1,4 @@
 title: My Blog
 description: Rants, thoughts, ideas
-theme: jekyll-theme-cayman
-
+theme: minima
+permalink: /:year/:month/:day/:title/
