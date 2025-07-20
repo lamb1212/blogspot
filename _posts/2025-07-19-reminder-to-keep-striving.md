@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reminder to keep striving..."
-date: 2025-07-20 
+date: 2025-07-19 
 ---
 
 First real post! 
