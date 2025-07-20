@@ -35,4 +35,4 @@ Just neat to have a device I have already spent time setting up with a sort of r
 
 That said I do believe it is time to call this to a close....
 
--LMB
+-LMB Howdy
