@@ -1,4 +1,6 @@
 title: My Blog
+author: lamb
 description: Rants, thoughts, ideas
 theme: minima
 permalink: /:year/:month/:day/:title/
+
