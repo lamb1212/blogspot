@@ -1,1 +1,4 @@
-# The online spot for this blog...
+---
+layout: home 
+---
+
