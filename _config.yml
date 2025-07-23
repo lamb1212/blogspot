@@ -1,6 +1,6 @@
 title: Cranberri's Bog
 author: lamb
 description: Rants, thoughts, ideas
-theme: minima
+theme: jekyll-theme-midnight
 permalink: /:year/:month/:day/:title/
 
