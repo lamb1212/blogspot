@@ -1,7 +1,7 @@
 title: Cranberri's Bog
 author: lamb
 description: Rants, thoughts, ideas
-theme: jekyll-minima-dark
+theme: minima
     social_links:
       github: https://github.com/lamb1212/blogspot
 permalink: /:year/:month/:day/:title/
