@@ -6,7 +6,7 @@ date 2025-07-23
 draft: false 
 ---
 
-### Log Update — Blogsite & GitHub Pages (Night Session)
+Log Update — Blogsite & GitHub Pages (Night Session)
 
 Howdy in the early yonder!
 
