@@ -1,7 +1,9 @@
---- 
+---
+ 
 layout: post 
 title "Late night blog edit" 
 date 2025-07-23
+draft: false 
 ---
 
 ### Log Update — Blogsite & GitHub Pages (Night Session)
