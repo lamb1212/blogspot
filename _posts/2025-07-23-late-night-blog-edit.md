@@ -13,29 +13,29 @@ Howdy in the early yonder!
 Here is a rundown of what was tinkered with on the site:
 
 
-- Reviewed blog post file formatting and front matter to ensure correct date and metadata
+ Reviewed blog post file formatting and front matter to ensure correct date and metadata
     
-- Diagnosed issues with posts not showing due to incorrect filename date or front matter
+ Diagnosed issues with posts not showing due to incorrect filename date or front matter
     
-- Fixed broken URLs caused by mismatched post filenames and permalink structures
+ Fixed broken URLs caused by mismatched post filenames and permalink structures
     
-- Experimented with themes: attempted switching from `minima` to `midnight` to enable dark mode
+ Experimented with themes: attempted switching from `minima` to `midnight` to enable dark mode
     
-- Encountered GitHub Pages build failures due to unsupported plugins and config changes
+ Encountered GitHub Pages build failures due to unsupported plugins and config changes
     
-- Reverted to stable theme (`minima`) after failed build attempts, but site still had issues
+ Reverted to stable theme (`minima`) after failed build attempts, but site still had issues
     
-- Investigated duplicate site titles showing on the homepage; confirmed it was related to `README.md` and `index.md` content overlap
+ Investigated duplicate site titles showing on the homepage; confirmed it was related to `README.md` and `index.md` content overlap
     
-- Learned the importance of correct index page setup and minimal front matter for homepage content
+ Learned the importance of correct index page setup and minimal front matter for homepage content
     
-- Familiarized with lazygit for commit and push operations; handled diverged branches and key-based authentication errors
+ Familiarized with lazygit for commit and push operations; handled diverged branches and key-based authentication errors
     
-- Tested draft status in front matter; confirmed draft: false posts appear live
+ Tested draft status in front matter; confirmed draft: false posts appear live
     
-- Realized that local Jekyll serve helps to preview changes before pushing to remote
+ Realized that local Jekyll serve helps to preview changes before pushing to remote
     
-- Overall made solid progress in understanding Jekyll/GitHub Pages interplay, site structure, and troubleshooting build issues
+ Overall made solid progress in understanding Jekyll/GitHub Pages interplay, site structure, and troubleshooting build issues
     
 
 
