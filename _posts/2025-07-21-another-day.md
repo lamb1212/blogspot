@@ -1,8 +1,8 @@
 ---
-layout:post 
+layout: post 
 title: "Another day"
-date:2025-02-21
-draft: true
+date: 2025-07-22
+draft: false
 ---
 
 Howdy to the ether!

@@ -4,14 +4,12 @@ title "Late night blog edit"
 date 2025-07-23
 ---
 
+### Log Update — Blogsite & GitHub Pages (Night Session)
+
 Howdy in the early yonder!
 
 Here is a rundown of what was tinkered with on the site:
 
-
----
-
-### Log Update — Blogsite & GitHub Pages (Night Session)
 
 - Reviewed blog post file formatting and front matter to ensure correct date and metadata
     
@@ -38,5 +36,4 @@ Here is a rundown of what was tinkered with on the site:
 - Overall made solid progress in understanding Jekyll/GitHub Pages interplay, site structure, and troubleshooting build issues
     
 
----
 
