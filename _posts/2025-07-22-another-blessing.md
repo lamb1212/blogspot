@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Upkeep"
 date: 2025-07-22
-draft: true
+draft: false
 ---
 
 Howdy to the ether once again!
