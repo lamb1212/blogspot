@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Late night blog edit"
-date: 2025-07-23
+title: "Equipment Pickup/Weekly Rehash"
+date: 2025-07-28
 draft: false
 ---
 Networking Setup & Switch Integration
