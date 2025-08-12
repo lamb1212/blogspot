@@ -27,6 +27,7 @@ reused on different albums and cleaning the files up) I have really finished set
 update the server when needed. That is about it I want to say in regards to any kind of updates server wise. Mainly have been able to go out from 
 the home network and utilize either ssh to interact with the server or to do some kind of nano writing. While it has not been what I imagined 
 maintaining a server, this is quite a fun hobby! Strange to admit this is an actual hobby along being an area for learning and expirmentation.
+Thats pretty much it for this one, plan to be more in depth with what it is I update or install on the next post.
 
 
 
