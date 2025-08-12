@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "Enjoy your efforts."
 date: 2025-08-11
