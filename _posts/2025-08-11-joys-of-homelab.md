@@ -1,11 +1,32 @@
 ---
-layout: post
-title: "Enjoy your efforts."
-date: 2025-08-11
+layout: post 
+title: "Enjoy your efforts." 
+date: 2025-08-11 
 draft: false
 ---
-Howdy! It has been a quite few weeks on the server which is actually great news! No real issues with connectivity or reboots if and or when power goes out. Quite the accomplisment after spending too much time some nights trying to troubleshoot knowing I have work the next day. That said the newest update or service added to cranberri would be we now host our very own music library! This is something that has been in mind for quite some time with the price of music streaming and not being able to "own" said music. While I will miss one thing specifically (Soulection radio station) Apple music has held many of us hostage simply based off "conveincence". Which I understand and will say is, for most people this does not matter. However for someone like myself just not wanting to spend money monthly for something i may or may not use this is right up my alley. 
 
-Found a p2p sharing site (which will remain unnamed...) to source music found in my Apply Music Library and download them thru p2p and storing them on a seprate laptop (Strawberri). While I was excited to get a few albums downloaded and playing locally I recalled a video i was watching going over navidrome and streaming you music from your server. So I first had to figure out how to get all the music from strawberri over the cranberri. Had two options, Rsync or SCP. Went SCP to start as I did not know what the difference was starting out. SCP got the files transfered over to the server and the next step was spinning up a docker container with navidrome and setting it to persistant. Login to the webui and point my Music dir towards it. Next getting a music player able to connect to the server on my phone and signing into that as well. Boom, we now have Apple Music at home! After going to bed since this took quite some time after work one day I came back and sourced some more music and this time decided to use Rsync as instead of uploading albulms only I needed to ensure I was just sending files that were not detected on the server. Rsynce helped with that and took some time to transfer over (a few extra mins) This time i was simply updating the library and with fixing a few issues (album art being reused on different albums and cleaning the files up) I have really finished setting up a music library. Only thing needed is to add music and update the server when needed. That is about it I want to say in regards to any kind of updates server wise. Mainly have been able to go out from the home network and utilize either ssh to interact with the server or to do some kind of nano writing. While it has not been what I imagined maintaining a server, this is quite a fun hobby! Strange to admit this is an actual hobby along being an area for learning and expirmentation. 
+ 
+Howdy! It has been a quite few weeks on the server which is actually 
+great news! No real issues with connectivity or reboots if and or when power goes out. Quite the accomplisment after spending too much time some 
+nights trying to troubleshoot knowing I have work the next day. That said the newest update or service added to cranberri would be we now host our 
+very own music library! This is something that has been in mind for quite some time with the price of music streaming and not being able to "own" 
+said music. While I will miss one thing specifically (Soulection radio station) Apple music has held many of us hostage simply based off 
+"conveincence". Which I understand and will say is, for most people this does not matter. However for someone like myself just not wanting to spend 
+money monthly for something i may or may not use this is right up my alley.
+
+Found a p2p sharing site (which will remain unnamed...) to source music found in my Apply Music Library and download them thru p2p and storing them 
+on a seprate laptop (Strawberri). While I was excited to get a few albums downloaded and playing locally I recalled a video i was watching going 
+over navidrome and streaming you music from your server. So I first had to figure out how to get all the music from strawberri over the cranberri. 
+Had two options, Rsync or SCP. Went SCP to start as I did not know what the difference was starting out. SCP got the files transfered over to the 
+server and the next step was spinning up a docker container with navidrome and setting it to persistant. Login to the webui and point my Music dir 
+towards it. Next getting a music player able to connect to the server on my phone and signing into that as well. Boom, we now have Apple Music at 
+home! After going to bed since this took quite some time after work one day I came back and sourced some more music and this time decided to use 
+Rsync as instead of uploading albulms only I needed to ensure I was just sending files that were not detected on the server. Rsynce helped with that 
+and took some time to transfer over (a few extra mins) This time i was simply updating the library and with fixing a few issues (album art being 
+reused on different albums and cleaning the files up) I have really finished setting up a music library. Only thing needed is to add music and 
+update the server when needed. That is about it I want to say in regards to any kind of updates server wise. Mainly have been able to go out from 
+the home network and utilize either ssh to interact with the server or to do some kind of nano writing. While it has not been what I imagined 
+maintaining a server, this is quite a fun hobby! Strange to admit this is an actual hobby along being an area for learning and expirmentation.
+
 
 
